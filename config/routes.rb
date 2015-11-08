@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   root 'static_pages#uno'
+end
   # root to: 'static_pages#uno'
 #   match '/dos', to: 'static_pages#dos'
 #   match '/tres', to: 'static_pages#tres'
