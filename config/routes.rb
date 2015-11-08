@@ -7,7 +7,7 @@ CumplePapaV2::Application.routes.draw do
   match '/seis', to: 'static_pages#seis'
   match '/siete', to: 'static_pages#siete'
   match '/ocho', to: 'static_pages#ocho'
-
+end
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
