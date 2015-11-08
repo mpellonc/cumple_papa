@@ -1,4 +1,20 @@
 CumplePapaV2::Application.routes.draw do
+  get "static_pages/uno"
+
+  get "static_pages/dos"
+
+  get "static_pages/tres"
+
+  get "static_pages/cuatro"
+
+  get "static_pages/cinco"
+
+  get "static_pages/seis"
+
+  get "static_pages/siete"
+
+  get "static_pages/ocho"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
