@@ -1,13 +1,13 @@
 CumplePapaV2::Application.routes.draw do
   root to: 'static_pages#uno'
-  match '/dos', to: 'static_pages#dos'
-  match '/tres', to: 'static_pages#tres'
-  match '/cuatro', to: 'static_pages#cuatro'
-  match '/cinco', to: 'static_pages#cinco'
-  match '/seis', to: 'static_pages#seis'
-  match '/siete', to: 'static_pages#siete'
-  match '/ocho', to: 'static_pages#ocho'
-end
+#   match '/dos', to: 'static_pages#dos'
+#   match '/tres', to: 'static_pages#tres'
+#   match '/cuatro', to: 'static_pages#cuatro'
+#   match '/cinco', to: 'static_pages#cinco'
+#   match '/seis', to: 'static_pages#seis'
+#   match '/siete', to: 'static_pages#siete'
+#   match '/ocho', to: 'static_pages#ocho'
+# end
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
