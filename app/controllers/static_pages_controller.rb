@@ -1,5 +1,6 @@
 class StaticPagesController < ApplicationController
   def uno
+    puts "hello"
   end
 
   def dos
