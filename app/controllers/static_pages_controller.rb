@@ -1,6 +1,5 @@
 class StaticPagesController < ApplicationController
   def uno
-    
   end
 
   def dos

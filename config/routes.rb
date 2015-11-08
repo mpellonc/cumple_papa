@@ -1,5 +1,6 @@
-CumplePapaV2::Application.routes.draw do
-  root to: 'static_pages#uno'
+Rails.application.routes.draw do
+  root 'static_pages#uno'
+  # root to: 'static_pages#uno'
 #   match '/dos', to: 'static_pages#dos'
 #   match '/tres', to: 'static_pages#tres'
 #   match '/cuatro', to: 'static_pages#cuatro'
